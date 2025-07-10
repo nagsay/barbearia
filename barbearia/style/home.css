@@ -1,0 +1,19 @@
+.home-section {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 650px;
+    color: white;
+    text-align: center;
+}
+
+.home-content {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 700px;
+    width: 100%;
+}
